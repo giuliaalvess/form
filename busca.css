@@ -1,0 +1,23 @@
+input{
+  background-color: rgb(255, 255, 255); 
+  color:black; 
+  height: 60px; 
+  border-radius: 50px; 
+  width: 360px; 
+  font-size: 25px; 
+}
+input::placeholder{
+  background-image: linear-gradient(to right,rgb(255, 0, 111),rgb(51, 0, 51));
+  width: 100%;
+  color: white;
+  padding: 20px;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#bntBusca{
+  width: 50px;
+  height: 50px;
+}
+
+
