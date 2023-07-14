@@ -31,13 +31,14 @@ label{
 }
 #ib{
     width: 80%;
-    margin-left: 10%;
+    margin-left: 35px;
     margin-top: 10px;
     height: 50px;
     background-color: rgb(146, 11, 11);
     color: aliceblue;
-    border: none;
+    border: none;    
 }
+
 li a{
     list-style-type: none;
     color: aliceblue;
